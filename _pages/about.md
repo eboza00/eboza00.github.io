@@ -16,16 +16,16 @@ Formarly I have been an assistant at different institutions including National U
 My main fields of interest are Development Economics, International Trade and Industrial Organization.
 
 
-You can find my personal github repository here. 
+You can find my CV. 
 ======
-Check out my  [Github profile](https://github.com/eboza00) and may be you'll find something useful.
+[Personal CV](https://github.com/eboza00) .
 
 
 
 Another subtitle
 ======
 
-
+<! -- This is comented
 Coding example
 ------
 ```python
@@ -33,6 +33,7 @@ import pandas as pd
 import numpy as np
 print("Hello World!")
 ```
+ --> 
 
 
 Contact me
