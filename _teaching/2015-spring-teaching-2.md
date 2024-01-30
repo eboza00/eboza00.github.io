@@ -1,5 +1,5 @@
 ---
-title: "Intermediate microeconomic theory (EC-2200)"
+title: "Intermediate microeconomic theory (EC-2200) (Spanish)"
 collection: teaching
 type: ""
 permalink: /teaching/EC-2200
@@ -9,11 +9,11 @@ location: "Costa Rica"
 ---
 The main objective of the course is to generate in the student an intuitive understanding of thefunctioning of the competitive market mechanism and its main failures, for which basic calculus is used. The course formalizes the basic elements of the theory of consumer and producer, in a context of partial equilibrium, although at the end of the course, we will differentiate this analysis with the basic conceptualization of general equilibrium.
 
-Heading 1
+Class notes (Spanish)
 ======
 
-Heading 2
+Lab notes (Spanish)
 ======
 
-Heading 3
+Problem Sets (Spanish)
 ======
