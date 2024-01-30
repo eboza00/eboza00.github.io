@@ -1,7 +1,7 @@
 ---
 title: "Intermediate microeconomic theory (EC-2100) (Spanish)"
 collection: teaching
-permalink: /teaching/EC-2200
+permalink: /teaching/EC-2100
 venue: "University of Costa Rica, Department of Economics"
 date: 2024-01-01
 location: "San Jose, Costa Rica"
