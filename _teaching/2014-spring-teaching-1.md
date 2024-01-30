@@ -64,6 +64,5 @@ Thesis 7 (Spanish)
 [Tema 7A](https://drive.google.com/file/d/1kg5HBuqNpmcxhzX3CpjkzmghoI9lqgju/view?usp=sharing)
 [Tema 7B](https://drive.google.com/file/d/13XKRr_1twpE0u9SCrVrllU7UL6ZCu23h/view?usp=sharing)
 
-Thesis 8 (Spanish)
-======
+
 
