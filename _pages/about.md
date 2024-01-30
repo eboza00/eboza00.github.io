@@ -25,6 +25,8 @@ You can find my CV.
 
 Contact me
 ------
-efrain.boza@ucr.ac.cr
-eboza00@gmail.com
+efrain.boza@ucr.ac.cr \
+
+eboza00@gmail.com \
+
 (+506) 6104-0008
