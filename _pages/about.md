@@ -18,22 +18,9 @@ My main fields of interest are Development Economics, International Trade and In
 
 You can find my CV. 
 ======
-[Personal CV](https://github.com/eboza00) .
+[Personal CV](https://drive.google.com/file/d/1XRyTlYAKoDF0E7MCEvNiumI_DdmU1-4w/view?usp=sharing) .
 
 
-
-Another subtitle
-======
-
-<! -- This is comented
-Coding example
-------
-```python
-import pandas as pd
-import numpy as np
-print("Hello World!")
-```
- --> 
 
 
 Contact me
