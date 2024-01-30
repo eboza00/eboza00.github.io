@@ -16,10 +16,6 @@ Thesis 1
 Thesis 2
 ======
 
-Heading 3
-======
-
-
 Thesis 3
 ======
 
