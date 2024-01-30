@@ -13,26 +13,29 @@ Introductory course for non-economists, the main objective of the course is to i
 Syllabus (Spanish)
 ======
 
-Thesis 1
+Introduction (Spanish)
 ======
 
-Thesis 2
+Thesis 1 (Spanish)
 ======
 
-Thesis 3
+Thesis 2 (Spanish)
+======
+
+Thesis 3 (Spanish)
 ======
 
 
-Thesis 4
+Thesis 4 (Spanish)
 ======
 
 
-Thesis 5
+Thesis 5 (Spanish)
 ======
 
-Thesis 6
+Thesis 6 (Spanish)
 ======
 
-Thesis 7
+Thesis 7 (Spanish)
 ======
 
