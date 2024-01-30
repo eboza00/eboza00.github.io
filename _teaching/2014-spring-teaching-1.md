@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/EC-1100
 venue: "University of Costa Rica, Department of Economics"
-date: 2024
+date: 2024-01-01
 location: "Costa Rica"
 ---
 
