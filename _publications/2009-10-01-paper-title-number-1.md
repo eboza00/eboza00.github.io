@@ -2,11 +2,8 @@
 title: "More Internet for More Employment and Earnings: A Causal Estimation for Costa Rica"
 collection: publications
 permalink: /publications/working-paper-1
-excerpt: ''
 date: 2023-07-01
-venue: ''
 paperurl: 'https://www.econstor.eu/bitstream/10419/278020/1/Vargas-Montoya-Boza-Nunez.pdf'
-Working Paper: ''
 ---
 
 
