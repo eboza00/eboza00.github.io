@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "More Internet for More Employment and Earnings: A Causal Estimation for Costa Rica"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/working-paper-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-07-01
+venue: ''
+paperurl: 'http://academicpages.github.io/files/1.pdf](https://www.econstor.eu/bitstream/10419/278020/1/Vargas-Montoya-Boza-Nunez.pdf'
+citation: 'Boza-Núñez, Efraín; Vargas-Montoya, Luis; Robalino, Juan. (2023). More Internet for More Employment and Earnings: A Causal Estimation for Costa Rica'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+By using a rich longitudinal dataset, we apply a novel Differences and
+Differences (DiD) method to estimate the effect of the access to computers and internet over
+the labor market participation, employment and earnings. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.econstor.eu/bitstream/10419/278020/1/Vargas-Montoya-Boza-Nunez.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Boza-Núñez, Efraín; Vargas-Montoya, Luis; Robalino, Juan (2023) :
+More Internet for More Employment and Earnings: A Causal Estimation for Costa Rica, 32nd
+European Conference of the International Telecommunications Society (ITS): "Realising the
+digital decade in the European Union – Easier said than done?", Madrid, Spain, 19th - 20th
+June 2023, International Telecommunications Society (ITS), Calgary
