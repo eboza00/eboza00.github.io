@@ -23,6 +23,20 @@ Class notes (Spanish)
 
 Lab notes (Spanish)
 ======
-
+[Lab I]()
+[Lab II]()
+[Lab III]()
+[Lab IV]()
+[Lab V]()
+[Lab VI]()
+[Lab VII]()
+[Lab VIII]()
+[Lab IX]()
+[Lab X]()
+[Lab XI]()
+[Lab XII]()
 Problem Sets (Spanish)
 ======
+[Tarea I]()
+[Tarea II]()
+[Tarea III]()
