@@ -1,7 +1,7 @@
 ---
 title: "More Internet for More Employment and Earnings: A Causal Estimation for Costa Rica"
 collection: publications
-permalink: /publication/working-paper-1
+permalink: /publications/working-paper-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-01
 venue: ''
