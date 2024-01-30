@@ -10,6 +10,10 @@ location: "San Jose, Costa Rica"
 
 Introductory course for non-economists, the main objective of the course is to introduce the student to economic thinking in an intuitive and systematic way.
 
+*Office Hours:* L/J, PDA Office, University of Costa Rica. 
+
+Confirmation by mail required. 
+
 Syllabus (Spanish)
 ======
 
