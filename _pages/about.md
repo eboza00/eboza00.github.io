@@ -19,23 +19,6 @@ Check out my  [Github profile](https://github.com/eboza00) and may be you'll fin
 Another subtitle
 ======
 
-<table class='tg'>
-  <thead>
-    <tr>
-      <th class='tg-0pky'>
-        <div class='center'>
-          <blockquote class="twitter-tweet" data-partner="tweetdeck">
-        This could be an inspiring quote by someone.
-            -  Someone
-          </blockquote> <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-        </div>
-      </th>
-      <th class='tg-0pky'>
-        <h2> Feel free to explore my repositories! </h2>
-      <th>
-    </tr>
-  </thead>
-</table>
 
 Coding example
 ------
@@ -45,10 +28,6 @@ import numpy as np
 print("Hello World!")
 ```
 
-I guess that's it
-------
-this is how images work
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Contact me
 ------
