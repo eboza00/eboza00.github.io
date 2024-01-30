@@ -18,6 +18,7 @@ Check out my  [Github profile](https://github.com/eboza00) and may be you'll fin
 
 Another subtitle
 ======
+
 <table class='tg'>
   <thead>
     <tr>
