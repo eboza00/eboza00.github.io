@@ -28,41 +28,41 @@ Thesis 1 (Spanish)
 Thesis 2 (Spanish)
 ======
 
-[Tema 2A]()
-[Tema 2B]()
+[Tema 2A](https://drive.google.com/file/d/1FqBQ9x3BnmmvQ5eye-OVOu_T4bx8z-sJ/view?usp=sharing)
+[Tema 2B](https://drive.google.com/file/d/1uFr-zzED2niUycqVP_mZJ5O3MuBbsMhA/view?usp=sharing)
 
 Thesis 3 (Spanish)
 ======
 
-[Tema 3A]()
-[Tema 3B]()
+[Tema 3A](https://drive.google.com/file/d/1LUHDFjKwdZS75J2nhiUtWy03lbbEEF32/view?usp=sharing)
+[Tema 3B](https://drive.google.com/file/d/1VjUkF13xFJEHDdS_lGZqPBD9L6sdnZeb/view?usp=sharing)
 
 
 
 Thesis 4 (Spanish)
 ======
 
-[Tema 4A]()
-[Tema 4B]()
+[Tema 4A](https://drive.google.com/file/d/19wiUT9ed3064cPdT7zpAK2w9hCPQA7Q3/view?usp=sharing)
+[Tema 4B](https://drive.google.com/file/d/1rb056_ppyAFEkvuJS14ANJ1QIi9BF_Gv/view?usp=sharing)
 
 Thesis 5 (Spanish)
 ======
 
-[Tema 5A]()
-[Tema 5B]()
+[Tema 5A](https://drive.google.com/file/d/1uf8LyDuD7MEEIa4cU1a-7uDujsppFKaB/view?usp=sharing)
+[Tema 5B](https://drive.google.com/file/d/1DlKEQCtiV-pGV_d03tJPXAcTI1axDRDS/view?usp=sharing)
 
 Thesis 6 (Spanish)
 ======
 
-[Tema 6A]()
-[Tema 6B]()
-[Tema 6C]()
+[Tema 6A](https://drive.google.com/file/d/159b5ujYhkYokHya3XTgOboYOwm_kXU7p/view?usp=sharing)
+[Tema 6B](https://drive.google.com/file/d/1KSNgWr67qqpMdaL__YgD77DH3d5V86ci/view?usp=sharing)
+[Tema 6C](https://drive.google.com/file/d/12Fj6YmJHxRjRmPYlc0BFovkxX0D4xsFR/view?usp=sharing)
 
 Thesis 7 (Spanish)
 ======
 
-[Tema 7A]()
-[Tema 7B]()
+[Tema 7A](https://drive.google.com/file/d/1kg5HBuqNpmcxhzX3CpjkzmghoI9lqgju/view?usp=sharing)
+[Tema 7B](https://drive.google.com/file/d/13XKRr_1twpE0u9SCrVrllU7UL6ZCu23h/view?usp=sharing)
 
 Thesis 8 (Spanish)
 ======
