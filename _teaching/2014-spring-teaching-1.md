@@ -23,23 +23,45 @@ Introduction (Spanish)
 Thesis 1 (Spanish)
 ======
 
+[Tema 1A](https://drive.google.com/file/d/1c44zjo6aPJrnC7Yse47Xzkn4_PXwBudi/view?usp=sharing)
+[Tema 1B](https://drive.google.com/file/d/1dbtHKcYGiQFMgRYYFdbbcrdOLUJ7032j/view?usp=sharing)
+
 Thesis 2 (Spanish)
 ======
 
+[Tema 2A]()
+[Tema 2B]()
+
 Thesis 3 (Spanish)
 ======
+
+[Tema 3A]()
+[Tema 3B]()
+
 
 
 Thesis 4 (Spanish)
 ======
 
+[Tema 4A]()
+[Tema 4B]()
 
 Thesis 5 (Spanish)
 ======
 
+[Tema 5A]()
+[Tema 5B]()
+
 Thesis 6 (Spanish)
 ======
 
+[Tema 6A]()
+[Tema 6B]()
+[Tema 6C]()
+
 Thesis 7 (Spanish)
 ======
+
+[Tema 7A]()
+[Tema 7B]()
 
