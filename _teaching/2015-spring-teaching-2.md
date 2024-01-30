@@ -35,6 +35,8 @@ Lab notes (Spanish)
 [Lab X]()
 [Lab XI]()
 [Lab XII]()
+
+
 Problem Sets (Spanish)
 ======
 [Tarea I]()
