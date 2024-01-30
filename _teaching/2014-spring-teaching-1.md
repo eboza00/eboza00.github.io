@@ -1,7 +1,7 @@
 ---
 title: "Introduction to economics for non-economists (EC-1100) (Spanish)"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/EC-1100
 venue: "University of Costa Rica, Department of Economics"
 date: 2024-01-01
