@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to economics for non-economists (EC-1100)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Costa Rica, Department of Economics"
+date: 2024
+location: "Costa Rica"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introductory course for non-economists, the main objective of the course is to introduce the student to economic thinking in an intuitive and systematic way.
 
 Heading 1
 ======
