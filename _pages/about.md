@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name's Efraín Boza. I'm an instructor and a researcher at the Department of Economics of the University of Costa Rica (UCR). 
-I am also a Research Assistant at London School of Economics (LSE) under the supervision of Jose Pablo Vasquez, Ph.D and Isabela Manelici, Ph.D.
+Hi, my name’s Efraín Boza. I’m an instructor and a researcher working in the Department of Economics at the University of Costa Rica (UCR). I am also a Research Assistant for Jose Pablo Vasquez, Ph.D and Isabela Manelici, Ph.D. at the London School of Economics (LSE).
 
-Previously, I have been an assistant at different institutions including National University Singapur (NUS) and the University of Costa Rica (UCR), and a consultant in different joint proyects with multilateral institutions. 
+I have been an assistant at different institutions including National University Singapur (NUS) and the University of Costa Rica (UCR), and a consultant on different joint proyects founded by multilateral institutions. 
 
-My main fields of interest are Development Economics, International Trade, Applied Microeconomics and Industrial Organization.
+My fields of interest are Development Economics, International Trade, Applied Microeconomics and Industrial Organization.
 
 
 You can find my CV. 
