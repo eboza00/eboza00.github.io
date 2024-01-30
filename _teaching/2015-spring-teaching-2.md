@@ -1,5 +1,5 @@
 ---
-title: "Intermediate microeconomic theory (EC-2200) (Spanish)"
+title: "Intermediate microeconomic theory (EC-2100) (Spanish)"
 collection: teaching
 permalink: /teaching/EC-2200
 venue: "University of Costa Rica, Department of Economics"
