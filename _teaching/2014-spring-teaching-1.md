@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/EC-1100
 venue: "University of Costa Rica, Department of Economics"
 date: 2024-01-01
-location: "Costa Rica"
+location: "San Jose, Costa Rica"
 ---
 
 Introductory course for non-economists, the main objective of the course is to introduce the student to economic thinking in an intuitive and systematic way.
