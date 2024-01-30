@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Intermediate microeconomic theory (EC-2200)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: ""
+permalink: /teaching/EC-2200
+venue: "University of Costa Rica, Department of Economics"
+date: 2020
+location: "Costa Rica"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+The main objective of the course is to generate in the student an intuitive understanding of thefunctioning of the competitive market mechanism and its main failures, for which basic calculus is used. The course formalizes the basic elements of the theory of consumer and producer, in a context of partial equilibrium, although at the end of the course, we will differentiate this analysis with the basic conceptualization of general equilibrium.
 
 Heading 1
 ======
