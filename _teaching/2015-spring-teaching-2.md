@@ -23,7 +23,7 @@ Class notes (Spanish)
 
 Lab notes (Spanish)
 ======
-[Lab I]()
+[Lab I](https://drive.google.com/file/d/1iS7vWX00B9HsqwhmsJS7K63VoCP--k1B/view?usp=sharing)
 [Lab II]()
 [Lab III]()
 [Lab IV]()
