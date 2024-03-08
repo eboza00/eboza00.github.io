@@ -16,6 +16,8 @@ Confirmation by mail required.
 Syllabus (Spanish)
 ======
 
+[Syllabus](https://drive.google.com/file/d/1eO9tGJSI9_KFTG77oqCg5Gyv5EL8N6Kn/view?usp=sharing)
+
 Introduction (Spanish)
 ======
 
