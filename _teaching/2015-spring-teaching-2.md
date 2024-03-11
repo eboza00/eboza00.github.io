@@ -18,6 +18,9 @@ Confirmation by mail required.
 Syllabus (Spanish)
 ======
 
+[Syllabus](https://docs.google.com/document/d/1nrirgwDXjhtlYaUSNVcCyVWXWwbDqUJI/edit?usp=sharing&ouid=106209913056161783741&rtpof=true&sd=true)
+
+
 Class notes (Spanish)
 ======
 
