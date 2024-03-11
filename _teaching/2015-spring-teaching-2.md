@@ -24,6 +24,8 @@ Syllabus (Spanish)
 Class notes (Spanish)
 ======
 
+[Clase I](https://drive.google.com/file/d/1yVTtWc4iQX9JQEsMhe-cGwnuNHn9nhmT/view?usp=sharing)
+
 Lab notes (Spanish)
 ======
 [Lab I](https://drive.google.com/file/d/1pH0Xmn8te84nb1RRm8194hv2JfN7Jrtw/view?usp=sharing)
