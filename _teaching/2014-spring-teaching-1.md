@@ -21,6 +21,8 @@ Syllabus (Spanish)
 Introduction (Spanish)
 ======
 
+[Introduction](https://docs.google.com/presentation/d/1w0JASI6uEB92qzdzycBTopXFTeTlesWD/edit?usp=sharing&ouid=106209913056161783741&rtpof=true&sd=true)
+
 Thesis 1 (Spanish)
 ======
 
