@@ -26,6 +26,8 @@ Class notes (Spanish)
 
 [Clase I](https://drive.google.com/file/d/1yVTtWc4iQX9JQEsMhe-cGwnuNHn9nhmT/view?usp=sharing)
 [Clase II](https://drive.google.com/file/d/1zboAlpJeuhzzu16_L_Zdw-6eGdLCCkJV/view?usp=sharing)
+[Clase III](https://drive.google.com/file/d/1_JkGphRN81c3XJiuDHD7-vp0cBopYaL-/view?usp=sharing)
+[Clase IV](https://drive.google.com/file/d/1rqwS2QQYCPMNeW_jFUR2U-DHS4Nw_dxq/view?usp=sharing)
 
 Lab notes (Spanish)
 ======
