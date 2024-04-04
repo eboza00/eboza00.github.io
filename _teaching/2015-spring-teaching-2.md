@@ -54,7 +54,7 @@ Problem Sets (Spanish)
 Extra (Spanish)
 ======
 [Libro Robles](https://1drv.ms/f/s!Apt8JyQ0GajQgd9iXhpfEk6icuZ1SQ)
-[Funciones Leontief]()
+[Funciones Leontief](https://es.scribd.com/document/661748303/Manual-para-el-dibujo-de-la-funci-n-Leontief)
 
 
 
