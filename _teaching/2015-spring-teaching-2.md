@@ -50,3 +50,12 @@ Problem Sets (Spanish)
 [Tarea I](https://drive.google.com/file/d/1pLJQrW4_cCkvcT-zQbSq9PNeo-NdQ-ZF/view?usp=sharing)
 [Tarea II](https://drive.google.com/file/d/1D9hk4dCHE68TqC5IGCLpFQK8LU6-BtS3/view?usp=sharing)
 [Tarea III](https://drive.google.com/file/d/197Me6YlCc48kjCVwk4m3Y1OG7VUiOjyS/view?usp=sharing)
+
+Extra (Spanish)
+======
+[Libro Robles](https://1drv.ms/f/s!Apt8JyQ0GajQgd9iXhpfEk6icuZ1SQ)
+[Funciones Leontief]()
+
+
+
+
