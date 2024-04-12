@@ -28,6 +28,10 @@ Class notes (Spanish)
 [Clase II](https://drive.google.com/file/d/1zboAlpJeuhzzu16_L_Zdw-6eGdLCCkJV/view?usp=sharing)
 [Clase III](https://drive.google.com/file/d/1_JkGphRN81c3XJiuDHD7-vp0cBopYaL-/view?usp=sharing)
 [Clase IV](https://drive.google.com/file/d/1rqwS2QQYCPMNeW_jFUR2U-DHS4Nw_dxq/view?usp=sharing)
+[Clase V](https://drive.google.com/file/d/15NLdPepOxPsVBvtRLgdkBatB6DEx0CyM/view?usp=sharing)
+[Clase VI](https://drive.google.com/file/d/1XUkNEPTjdePmGEV4XXe3xeUzUA0fQ6kj/view?usp=sharing)
+[Clase VII](https://drive.google.com/file/d/1gFnCYT1ccw2M1SUGiThPeJx17cPQ4Qv8/view?usp=sharing)
+
 
 Lab notes (Spanish)
 ======
