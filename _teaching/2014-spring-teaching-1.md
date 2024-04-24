@@ -69,4 +69,8 @@ Thesis 7 (Spanish)
 [Tema 7B](https://drive.google.com/file/d/13XKRr_1twpE0u9SCrVrllU7UL6ZCu23h/view?usp=sharing)
 
 
+Quices (Spanish)
+======
+
+[Simulacro 1](https://drive.google.com/file/d/1n-Lym4XhRZNuKVj0_G4VyD_s-mkiZ8Lz/view?usp=sharing)
 
