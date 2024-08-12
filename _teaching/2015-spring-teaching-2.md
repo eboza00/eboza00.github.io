@@ -18,7 +18,7 @@ Confirmation by mail required.
 Syllabus (Spanish)
 ======
 
-[Syllabus](https://docs.google.com/document/d/1nrirgwDXjhtlYaUSNVcCyVWXWwbDqUJI/edit?usp=sharing&ouid=106209913056161783741&rtpof=true&sd=true)
+[Syllabus](https://drive.google.com/file/d/1PaqGsIHPpH0za3paKxf6sdC9s00UT5lD/view?usp=sharing)
 
 
 Class notes (Spanish)
@@ -34,6 +34,12 @@ Class notes (Spanish)
 [Clase VIII](https://drive.google.com/file/d/1GHYaBpVx-FN1ckHIo6SpggnbiNROLRgt/view?usp=sharing)
 [Clase IV](https://drive.google.com/file/d/1rqwS2QQYCPMNeW_jFUR2U-DHS4Nw_dxq/view?usp=sharing)
 [Clase X](https://drive.google.com/file/d/1VgGwyb1lKbapB8aS5GQKBE1OPni8DNmR/view?usp=sharing)
+
+Slides (Spanish)
+======
+[Clase I](https://drive.google.com/file/d/1jyetk8dbGoyvT5wkkAMyGuF2d3Xwihop/view?usp=sharing)
+[Clase II](https://drive.google.com/file/d/1zOf-nZk44vBXGU6k39biQxEi_lUHYptc/view?usp=sharing)
+[Clase III](https://drive.google.com/file/d/1yRHZh24eKjn1K9ZyohfyCtMAnyxDtaij/view?usp=sharing)
 
 Lab notes (Spanish)
 ======
