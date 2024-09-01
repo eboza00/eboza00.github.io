@@ -40,6 +40,8 @@ Slides (Spanish)
 [Clase I](https://drive.google.com/file/d/1jyetk8dbGoyvT5wkkAMyGuF2d3Xwihop/view?usp=sharing)
 [Clase II](https://drive.google.com/file/d/1zOf-nZk44vBXGU6k39biQxEi_lUHYptc/view?usp=sharing)
 [Clase III](https://drive.google.com/file/d/1yRHZh24eKjn1K9ZyohfyCtMAnyxDtaij/view?usp=sharing)
+[Clase IV](https://drive.google.com/file/d/19MOuIhdyylM0MjR88R0I3Iq1X1Rp63i7/view?usp=sharing)
+
 
 Lab notes (Spanish)
 ======
