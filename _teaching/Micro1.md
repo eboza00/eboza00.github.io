@@ -37,11 +37,21 @@ Class notes (Spanish)
 
 Slides (Spanish)
 ======
-[Clase I](https://drive.google.com/file/d/1jyetk8dbGoyvT5wkkAMyGuF2d3Xwihop/view?usp=sharing)
-[Clase II](https://drive.google.com/file/d/1zOf-nZk44vBXGU6k39biQxEi_lUHYptc/view?usp=sharing)
-[Clase III](https://drive.google.com/file/d/1yRHZh24eKjn1K9ZyohfyCtMAnyxDtaij/view?usp=sharing)
-[Clase IV](https://drive.google.com/file/d/1i9REQK6SmqR8sCfUnWt0U6khqgnHGmO1/view?usp=sharing)
-[Clase V](https://drive.google.com/file/d/1NAEsVKmU50VGyPoCYLkjgT_F4H1p8nQO/view?usp=sharing)
+[Clase I](https://drive.google.com/file/d/15PnM8OHwYl3wzTf0-37ryqWB57ZV_tgH/view?usp=sharing)
+[Clase II](https://drive.google.com/file/d/1b3rQdZbWL83s0cE6hqVicx0BXTgWxH65/view?usp=sharing)
+[Clase III](https://drive.google.com/file/d/1_6V_x84JETDuqz6i_bqcwEfw46lNaVQZ/view?usp=sharing)
+[Clase IV](https://drive.google.com/file/d/1QjtrwBo_n6JSOt27L44QjSSQy6plFQ23/view?usp=sharing)
+[Clase V](https://drive.google.com/file/d/1IvWNTO7FzAnfU0Wsu33mw-TE53XkcwKv/view?usp=sharing)
+[Clase IX](https://drive.google.com/file/d/1VA9iJ0HvddY7fzYb17Ht85zyQ-lCDufv/view?usp=sharing)
+
+
+
+
+
+
+
+
+
 
 Lab notes (Spanish)
 ======
