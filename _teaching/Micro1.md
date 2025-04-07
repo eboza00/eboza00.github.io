@@ -42,6 +42,7 @@ Slides (Spanish)
 [Clase III](https://drive.google.com/file/d/1_6V_x84JETDuqz6i_bqcwEfw46lNaVQZ/view?usp=sharing)
 [Clase IV](https://drive.google.com/file/d/1QjtrwBo_n6JSOt27L44QjSSQy6plFQ23/view?usp=sharing)
 [Clase V](https://drive.google.com/file/d/1IvWNTO7FzAnfU0Wsu33mw-TE53XkcwKv/view?usp=sharing)
+[Clase VI](https://drive.google.com/file/d/1eKl042x_wDr6aeQE30Xs6_krUjUw6wp9/view?usp=sharing)
 [Clase IX](https://drive.google.com/file/d/1VA9iJ0HvddY7fzYb17Ht85zyQ-lCDufv/view?usp=sharing)
 
 
