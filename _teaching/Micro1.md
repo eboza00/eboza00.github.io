@@ -45,8 +45,8 @@ Slides (Spanish)
 [Clase VI](https://drive.google.com/file/d/1eKl042x_wDr6aeQE30Xs6_krUjUw6wp9/view?usp=sharing)
 [Clase VII](https://drive.google.com/file/d/1Hj3szZuXA8hDoD4WJM6gsUBZtoIrY8Da/view?usp=sharing)
 [Clase VIII](https://drive.google.com/file/d/1vABDDZOj6BJF2-eKHNycZG3Q8JIpTcgF/view?usp=sharing)
-[Clase IX](https://drive.google.com/file/d/1VA9iJ0HvddY7fzYb17Ht85zyQ-lCDufv/view?usp=sharing)
-
+[Clase IX](https://drive.google.com/file/d/1LiVJfjqdWWbX3tsQ75vWSkhiPG6Qnj-C/view?usp=sharing)
+[Clase XI](https://drive.google.com/file/d/1VA9iJ0HvddY7fzYb17Ht85zyQ-lCDufv/view?usp=sharing)
 
 
 
